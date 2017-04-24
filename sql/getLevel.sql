@@ -1,0 +1,1 @@
+SELECT * FROM f_levels WHERE classid = :classid AND level=:level

@@ -1,0 +1,1 @@
+SELECT * FROM f_features WHERE classid=:classid

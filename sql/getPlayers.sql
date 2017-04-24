@@ -1,0 +1,1 @@
+Select * from f_players;

@@ -1,0 +1,1 @@
+SELECT * FROM f_classes WHERE classid = :classid

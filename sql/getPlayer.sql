@@ -1,0 +1,1 @@
+SELECT * FROM f_players WHERE playerid = :playerid

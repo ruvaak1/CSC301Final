@@ -1,0 +1,71 @@
+body{
+	background-color: #fdf9d3;/*#deb887;*/
+}
+
+nav{
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	float: left;
+	width: 15%;
+	background-color: #c9c9c9;
+	height: 100%;
+	position: fixed;
+}
+
+ul{
+	list-style-type: none;
+}
+
+a:focus, a:hover{
+	color:#cc66cc;
+}
+
+.page{
+	width: 85%;
+	padding-left: 15%;
+}
+
+form{
+	background-color: #c9c9c9;/*#eaeaea;*/
+	padding: 10px;
+	width: 60%;
+}
+
+label{
+	float: left;
+	width: 150px;
+	/*clear: left;*/
+	text-align: right;
+	padding-right: 10px;
+	margin-top: 10px;
+}
+
+input, textarea{
+	margin-top: 10px;
+	display: block;
+}
+
+table{
+	border: 2px solid #000000;
+	border-collapse: collapse;
+	width: 80%;
+}
+
+th, td{
+	border: 1px solid #000000;
+}
+
+#button{
+	margin-left: 260px;
+}
+
+#inputGroup{
+	margin-left: 150px;
+	padding-left: 10px;
+}
+
+#smallForm{
+	padding: 10px;
+	width: 40%;
+}
